@@ -13,3 +13,6 @@ Compute and calculate the GWA based of given percentages and scores
 Display GWA percentage
 Display GWA table
 Indicates if you passed or failed
+
+The code is available in this repository.
+
